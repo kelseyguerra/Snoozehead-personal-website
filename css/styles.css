@@ -150,7 +150,7 @@ a:active {
   margin-top: 27px;
   filter: blur(1px);
   letter-spacing: -4px;
-  margin-left: 50px;
+  margin-left: 210px;
   font-family: monospace;
 }
 .hilinks {
@@ -191,7 +191,7 @@ a:active {
 }
 .procede {
   margin-top: auto;
-  margin-bottom: 300px;
+  margin-bottom: 600px;
   text-align: center;
   font-family: monospace;
   word-spacing: px;
@@ -211,6 +211,30 @@ a:active {
   filter: blur(1px);
   letter-spacing: -4px;
   text-align: center;
+  margin-left: 50px;
+  font-family: monospace;
+}
+.skeleton2 {
+  background-position: center;
+  margin-left: 50px;
+  margin-top: 60px;
+  position: center fixed;
+  width: 100%;
+}
+.contact {
+  border: solid 1px;
+  margin-top: 5px;
+  margin-left: 50px;
+  width: 500px;
+  padding: 30px;
+  font-family: monospace;
+  background-color: black;
+  color: white;
+}
+.contakt {
+  margin-top: 27px;
+  filter: blur(1px);
+  letter-spacing: 1px;
   margin-left: 50px;
   font-family: monospace;
 }
