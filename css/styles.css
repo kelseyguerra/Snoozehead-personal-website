@@ -1,16 +1,64 @@
 .ogtitle {
-  font-stretch: extra-expanded;
+  font-kerning: normal;
+  text-align: center;
   font-variant: small-caps;
-  letter-spacing: 2px;
-  margin-left: 9px;
-  margin-top: -2px;
-  margin-bottom: -5px;
+  letter-spacing: -2px;
+  margin-left: 20px;
+  margin-top: -6px;
+  margin-bottom: -2px;
 
 }
 
 .wrapper {
-  border-top: solid 30px;
+  border-bottom: solid 15px;
   font-family: monospace;
   text-align: center;
 
+}
+.links {
+  margin-top: 150px;
+  text-align: center;
+  font-family: monospace;
+  word-spacing: 30px;
+}
+
+li {
+  display: inline;
+  text-align: center;
+}
+
+a {
+  outline: white;
+  text-decoration: monospace;
+  display: inline-block;
+  width: 10.5%;
+  text-align: center;
+  line-height: 100px;
+  color: black;
+  margin-top: 5px;
+}
+
+li:last-child a {
+  margin-right: 0;
+  text-align: center;
+}
+
+a:link, a:visited, a:focus {
+  background: white;
+  color: black;
+  text-align: center;
+}
+
+a:hover {
+  background: black;
+  border-radius:10px;
+  border-style:ridge;
+  font-family: monospace;
+  text-align:
+
+}
+
+a:active {
+  background: black;
+  color: black;
 }
