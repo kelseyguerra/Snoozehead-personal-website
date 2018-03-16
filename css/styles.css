@@ -1,0 +1,16 @@
+.ogtitle {
+  font-stretch: extra-expanded;
+  font-variant: small-caps;
+  letter-spacing: 2px;
+  margin-left: 9px;
+  margin-top: -2px;
+  margin-bottom: -5px;
+
+}
+
+.wrapper {
+  border-top: solid 30px;
+  font-family: monospace;
+  text-align: center;
+
+}
