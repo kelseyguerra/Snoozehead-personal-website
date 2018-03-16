@@ -2,6 +2,7 @@
   font-kerning: normal;
   font-variant: small-caps;
   text-align: left;
+  filter: blur(1px);
   letter-spacing: -4px;
   margin-left: 20px;
   margin-top: -6px;
@@ -10,7 +11,7 @@
 }
 
 .wrapper {
-  border-bottom: solid 10px;
+  border-bottom: 5px;
   font-family: monospace;
   text-align: center;
 
@@ -57,7 +58,7 @@ a:hover {
   border-style:ridge;
   font-family: monospace;
   text-align:center;
-  filter: blur(5px);
+  filter: blur(20px);
 
 }
 
@@ -68,7 +69,19 @@ a:active {
 
 .abouttitle {
   padding-top: 80px;
-  filter: blur(1px);
+  filter: blur(2px);
   letter-spacing: -4px;
   text-align: center;
+  margin-left: 50px;
   font-family: monospace;
+}
+
+.mainabout {
+  float: bottom;
+  filter: blur(5px);
+  text-align: center;
+}
+
+.wake {
+border-top: solid 50px;
+}
