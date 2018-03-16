@@ -82,6 +82,12 @@ a:active {
   text-align: center;
 }
 
-.wake {
-border-top: solid 50px;
+.sidebar {
+  letter-spacing: 3px;
+  font-family: monospace;
+  padding: 70px 0;
+  text-align: center;
+  margin-top: 10px;
 }
+
+.wake {}
