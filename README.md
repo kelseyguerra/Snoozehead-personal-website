@@ -19,7 +19,7 @@ _{A fun, immersive webpage containing an artist's profile on Snoozehead, a brief
 _{None}_
 
 ## Support and contact details
-
+_{https://kelseyguerra.github.io/portfolio/pup.html}_
 _{Please contact: kelseylguerra@gmail.com}_
 
 ## Technologies Used
